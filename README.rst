@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2FTensorFlow-Roadmap.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2FTensorFlow-Roadmap?ref=badge_shield)
+
 .. image:: _img/mainpage/follow-twitter.gif
    :height: 100px
    :width: 200 px
@@ -652,3 +654,7 @@ Final Note
 We are looking forward to your kind feedback. Please help us to improve this open source project and make our work better.
 For contribution, please create a pull request and we will investigate it promptly. Once again, we appreciate
 your kind feedback and support.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FtheBashShell%2FTensorFlow-Roadmap.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FtheBashShell%2FTensorFlow-Roadmap?ref=badge_large)
